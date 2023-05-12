@@ -13,4 +13,4 @@
 ##
 
 Visualização do projeto: 
-![image](https://github.com/giobrtn/pokedex/assets/20981749/a8e6ed18-2a94-41a4-9f88-acf3fe2f33f8)
+![image](https://github.com/giobrtn/pokedex/assets/20981749/ec52335a-87f0-4c09-9b66-9916560583ae)
