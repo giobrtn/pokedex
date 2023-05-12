@@ -12,4 +12,5 @@
 
 ##
 
-O projeto pode ser visualizado em: 
+Visualização do projeto: 
+![image](https://github.com/giobrtn/pokedex/assets/20981749/a8e6ed18-2a94-41a4-9f88-acf3fe2f33f8)
